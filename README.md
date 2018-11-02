@@ -1,11 +1,9 @@
-# CSE 627 Project 1/ Kaggle competition- Advanced Regression problem.
+### CSE 627 Project 1/ Kaggle competition- Advanced Regression problem.
 
-AMES Dataset
+* Datset: AMES Dataset
 
 Goal
-
-Creat regression model to predict house prices in Ames, IOWA
-
+Predict house prices in Ames, IOWA
 
 
 *Timeline
